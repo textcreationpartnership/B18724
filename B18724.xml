@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of their Majesties antient Publick Office of Assurance, for making and registering of policies of assurance in the City of London. Humbly offered to the right honourable the Lords spiritual and temporal in Parliament assembled.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18724</idno><idno type="EEBO-CITATION">99887514</idno>
+  <idno type="VID">190492</idno>
+  <idno type="EEBO-PROQUEST">2240899798</idno>
+  
+            <idno type="STC">Wing C1179B</idno>
+            <idno type="STC">Interim Tract Supplement Guide L.R.305.a.7.[29]</idno>
+            <idno type="STC">ESTC R227800</idno>
+            <idno type="PROQUEST">ocm99887514</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99887514e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18724)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 190492)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C21:2[93])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of their Majesties antient Publick Office of Assurance, for making and registering of policies of assurance in the City of London. Humbly offered to the right honourable the Lords spiritual and temporal in Parliament assembled.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>between 1689 and 1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Insurance, Property --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:190492:1"/>
+            <head>The Case of their Majesties Antient Publick Office of Assurance, for Making and Registering of Policies of Assurance in the City of <hi>London.</hi> Humbly offered to the Right Honourable the Lords Spiritual and Tem<g ref="char:EOLhyphen"/>poral in Parliament assembled.</head>
+            <p>IT has been an Usage time out of mind amongst Merchants when they have sent out greater Adventures than they have been willing to run the Risque of, to give a Premium to others for them to ensure such part of the Goods as is agreed between them. Heretofore the Assured relied only on the Credit of the Assurers; and if any Differences arose they were usually determined by Merchants appointed (for that purpose) by the Lord Mayor; as it appears by the preamble of the Statute of the 43 <hi>Eliz. cap.</hi> 12. The Merchants of <hi>London</hi> being sensible that this manner of Trading by way of As<g ref="char:EOLhyphen"/>surance was a very great Incouragement of Traffickers, but finding that there had been several Abuses in it, they Petitioned Queen <hi>Elizabeth</hi> in the 17th year of her Reign to erect a Publick Office for the Registering of Policies of Assurance; and thereupon the Queen, by her Letters Patents, reciting, That it had been an Antient Custom of Merchants in <hi>Lombard-street,</hi> and then in the Royal Exchange, to make Policies of Assurance, which were held in great Estimation in most Parts of Christendom; but at that time, for want of a due and orderly keeping of a Register, Merchants had been abused by evil disposed Persons, who assured the same thing in sundry Places. For prevention of those, and the like Abuses, the Queen did appoint <hi>Richard Chandler,</hi> Maker and Register of all Policies of Assurance, and did provide and declare that all Policies made after the said Grant by any other Person should be void.</p>
+            <p>This Patent was only during Pleasure, to make an Experiment of the Expediency or Inconveniences of it. The Office conti<g ref="char:EOLhyphen"/>nued under that Patent until the 30th year of Queen <hi>Elizabeth,</hi> and then the Queen reciting that her former Grant had been found greatly Beneficial, and taken good Effect, granted the said Office to <hi>Richard Chandler,</hi> and one <hi>Richardson,</hi> for their Lives. Some time after which, at the Solicitation of the Merchants, there was a Statute made (<hi>viz.</hi> in the 43 of <hi>Eliz.</hi>) which not only takes notice and allows of the Office, but gives all manner of Incouragement to it, by erecting a Court, and granting great Powers to the Commissioners to enable them to give a quick and easy Recovery to the Insured, when Losses happen. After the death of <hi>Richardson,</hi> and <hi>Chandler, Anno 7th. Ja. primi,</hi> this Office was granted to <hi>Giles</hi> and <hi>Walter Overbury</hi> for their Lives, and after their Deaths for 31 years, the 3 <hi>Car. prim.</hi> it was granted to <hi>Richard Bogan</hi> for 31 years; and the 14 <hi>Car.</hi> 2. there was another grant of it to <hi>Nich.</hi> and <hi>Tho. Veel</hi> for their Lives; both which last mentioned Patents were surrendered to the King the 12 <hi>April,</hi> 1665. and the Office was granted to Sir <hi>Allen Brodrick,</hi> and his Assigns, under which grant the present Patentee claims; in every one of these successive Grants there is this Clause (or to this Effect) That every Policy of Assurance, contract of Assurance, Intima<g ref="char:EOLhyphen"/>tion, or Renunciation, that shall be made after the date of these Letters Patents, upon any Ship, Goods, or Merchandize, or other the Premises, by any manner of Person or Persons, within the Royal Exchange, or any other Place within the City of <hi>London,</hi> be<g ref="char:EOLhyphen"/>ing not made and registered by Sir <hi>Allen Brodrick,</hi> and his Assigns, Deputy or Deputies, should be utterly void.</p>
+            <p>'Tis observable, That this was not only a publick and known Office openly kept ever since its first Erection, but if that re<g ref="char:EOLhyphen"/>strictive Clause were publickly taken notice of, as it appears in my Lord <hi>Coke</hi>'s 12 Book of Reports, Folio 117. And yet in the 21th year of K. <hi>James,</hi> or in the time of K. <hi>Charles</hi> the First, when there was so great Enquiry after, and means taken to suppress all Patents that tended to Monopolies, this Office was never touched nor looked upon to be such; nay, on the contrary, it has received not only the countenance of the Statute before-mentioned (43 <hi>Eliz. cap.</hi> 12.) but in the 14th year of the Reign of <hi>Car.</hi> 2. after near 100 years Experience of the Benefit of it, the Parliament made an Additional Act to the former, giving the Court greater Powers than it had before; and afterwards, in the Act for Rebuilding the City of <hi>London,</hi> the 19 <hi>Car.</hi> 2. 'tis provided that Policies made in <hi>Gresham</hi> House (where the Office was kept for necessity upon that occasion) should be as Authentick as Assurances made in the Antient Office on the Royal Exchange. Which proves not only the Parliaments allowing and approving of the Office, but shews that they thought (as in the Grant expresses) that Policies ought not to be made elsewhere, and were not of Force if not made there, for else there had been no need of that Provision.</p>
+            <p>Now that this is an Office of great Benefit is certain. It will be for the Advantage of the King in his Revenue; First, by the Incouragement that the Security of dealing will give to Persons to Trade.</p>
+            <p>By preventing the Shipping of, or transporting Counterband or Prohibited Goods, or the defrauding of the King of his Customs by Mis-entries, to which private Offices give Incouragement, but a publick one would be a means to detect such Deceits.</p>
+            <p>The Benefit will be great both to the Assurers and Assured (to such 'tis meant as design honestly) and that there may be Secu<g ref="char:EOLhyphen"/>rity to both on the Terms agreed on is the intent of the Policy.</p>
+            <p>As to the Assurers, one very great Mischief to them was, That Persons would assure on Ships with different Persons, and in dif<g ref="char:EOLhyphen"/>ferent Places, far beyond the Value of the Goods which they had on Board, and then with confederacy with the Master of the Ship the Ship should be cast away somewhere near Land, and thereby the assured be great Gainers, by their Recovery against all the se<g ref="char:EOLhyphen"/>veral Persons, of which there are many and frequent Instances. Which Fraud would be easily detected in a publick Office, were the whole that every Man Assures upon one Ship may be known to the Assured (for whose Benefit the several Acts were chiefly made) It will be of great Advantage; for 'tis an usual thing for Assurers to subscribe Policies for far greater Sums, than (if Losses happen) they are capable of answering. This will in a great measure be prevented by being visible in the Office how far the Person with whom they are treating has under-written, by which they may make a Judgment whether they dealt safely or not.</p>
+            <p>The ordinary and lowest Rate then currant as a Premium will be known, and so no one need be surprised into the giving Ex<g ref="char:EOLunhyphen"/>travagant, or more than the Common Rates then currant.</p>
+            <p>The Entry of the Policies in the Registry will be good Evidence should the Policies themselves be lost.</p>
+            <p>There is likewise great Advantages to the Assured in the Recovery of their Moneys, by the Power the Commissioners have to Examine Witnesses beyond Sea, and the speedy Course that is taken by the Court in their Proceedings, the Statute appointing Courts to be kept weekly; which is of great use where Sea-faring Men are generally the Witnesses, who cannot attend the tedious Proceed<g ref="char:EOLhyphen"/>ings of Common Law, being required to Sea again before a Tryal be had.</p>
+            <p>That in many Cases where Insurances have been made in private Offices, and Losses happen thereon, the Assured have been for<g ref="char:EOLhyphen"/>ced to take of the Assurers what they please to give them; a half, or less part of their due, by reason of the defect of the Poli<g ref="char:EOLhyphen"/>cies; as in the Case of one Captain <hi>Saye,</hi> where the Policy being imperfect the Loss could not be recovered.</p>
+            <p>By the Custom of Merchants no Man can recover a Loss till he have first renounced his Interest to the Assurer; and there is no Place where a Renunciation can be legally taken, but in the publick Office of Assurance; and the Office of Assurance can take no Renunciation but of such Policies as are there Registred, and that before notice of the Loss. Therefore the Assurers would be glad the publick Office were discharged, having this Advantage against the Assured.</p>
+            <p>That in all Places abroad where any Insurances are made, there is no Office for making Policies of Assurance but what is allowed by publick Authority.</p>
+            <p>This Office is Authorised by the Prerogative of the Crown, and is by Statute Law made a Branch of, and subject to the High Court of Chancery.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
